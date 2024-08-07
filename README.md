@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Teju D</h1>
-<h3 align="center">A passionate developer</h3>
+<h3 align="center">A passionate software engineer</h3>
 <h4 align="center">🔭 I’m currently working in a StartUp building a product from scratch</h4>
 
 - 👨‍💻 All of my projects are available at [https://tejudharanesh.github.io/portfolio/](https://tejudharanesh.github.io/portfolio/)

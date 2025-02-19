@@ -33,11 +33,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-## 📌 My Projects
 
-Check out my work: [Portfolio Website](https://tejudharanesh.github.io/portfolio/)
 
-## 🛠️ Technologies & Tools
 
 ### 🚀 Languages & Frameworks
 

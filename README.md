@@ -64,8 +64,4 @@ Check out my work: [Portfolio Website](https://tejudharanesh.github.io/portfolio
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="60" height="60"/></a>
 </p>
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tejudharanesh&show_icons=true&theme=radical" alt="GitHub Stats" width="50%"/>
-</p>

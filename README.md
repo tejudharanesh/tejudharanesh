@@ -4,6 +4,10 @@
 <p>
   🚀 Currently working at a startup, building <strong>Baap</strong> as a product and developing a website from scratch.
 </p>
+<p>1 year of experience in designing, developing, and deploying scalable web applications. Proficient in front-end and
+back-end technologies, including JavaScript, TypeScript, ReactJs, NextJs, Nodejs, Expressjs, MongoDB, and MySQL.
+Skilled in collaborating with cross-functional teams to deliver user-centric solutions while ensuring optimal
+performance, scalability, and maintainability</p>
 
 ## 🌐 Connect with Me
 

@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/tejud" target="blank">
     <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" style="margin-right: 15px;"/>
   </a>
-  <br>
+  
   <a href="mailto:tejudharanesh1234@gmail.com">
     <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" style="margin-right: 15px;" />
   </a>

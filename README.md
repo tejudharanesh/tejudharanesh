@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from Bengaluru</h3>
 
 <p>
-  🚀 Currently working at a startup, building <strong>Baap</strong> as a product and developing a website from scratch.
+  🚀 Currently working at a startup, building <strong>Baap</strong>( Building as a product ), implemented and deployed https://habi.one website from scratch.
 </p>
 <p>1 year of experience in designing, developing, and deploying scalable web applications. Proficient in front-end and
 back-end technologies, including JavaScript, TypeScript, ReactJs, NextJs, Nodejs, Expressjs, MongoDB, and MySQL.

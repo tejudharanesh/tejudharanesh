@@ -4,10 +4,11 @@
 <p>
   🚀 Currently working at a startup, building <strong>Baap</strong>( Building as a product ), implemented and deployed https://habi.one website from scratch.
 </p>
-<p>1 year of experience in designing, developing, and deploying scalable web applications. Proficient in front-end and
-back-end technologies, including JavaScript, TypeScript, ReactJs, NextJs, Nodejs, Expressjs, MongoDB, and MySQL.
-Skilled in collaborating with cross-functional teams to deliver user-centric solutions while ensuring optimal
-performance, scalability, and maintainability.</p>
+<p>Full-Stack Developer with 1+ year of experience building scalable web applications using JavaScript, TypeScript,
+React.js, Node.js, Express.js, MongoDB, and MySQL. Delivered 80% increase in user engagement and 90%
+automation efficiency by developing high-performance solutions. Strong expertise in RESTful APIs, real-time systems,
+and responsive UI design.
+</p>
 
 ## 🌐 Connect with Me
 

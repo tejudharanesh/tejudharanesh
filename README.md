@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Software Developer from Bengaluru</h3>
 
 <p>
-  🚀 Currently working at a startup, building <strong>Baap</strong>( Building as a product ), implemented and deployed https://habi.one website from scratch.
+  Looking for full stack development roles
 </p>
 <p>Full-Stack Developer with 1+ year of experience building scalable web applications using JavaScript, TypeScript,
 React.js, Node.js, Express.js, MongoDB, and MySQL. Delivered 80% increase in user engagement and 90%

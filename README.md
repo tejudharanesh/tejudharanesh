@@ -5,7 +5,7 @@
   Looking for full stack development roles
 </p>
 <p>
-  Worked in a startup developed applications from scratch, Now doing freelancing and sonething what i like.
+  Worked in a startup developed applications from scratch, Now doing freelancing and something what i like.
 </p>
 <p>Full-Stack Developer with 1+ year of experience building scalable web applications using JavaScript, TypeScript,
 React.js, Node.js, Express.js, MongoDB, and MySQL. Delivered 80% increase in user engagement and 90%

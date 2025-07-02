@@ -1,17 +1,27 @@
 <h1 align="center">Hello 👋, I'm Teju D.</h1>
-<h3 align="center">A Passionate Software Developer from Bengaluru</h3>
+<h3 align="center">A Passionate Full-Stack Developer from Bengaluru</h3>
+
+<p align="center">
+  🚀 Actively seeking full-stack development opportunities | 💻 Freelancer | 🌱 Constant Learner
+</p>
 
 <p>
-  Looking for full stack development roles
+  I'm a Full-Stack Developer with over 1 year of hands-on experience in building scalable and responsive web applications from the ground up. 
+  I’ve worked in fast-paced startup environments where I developed products end-to-end, delivering tangible results like an 80% increase in user engagement and 90% automation of manual workflows.
 </p>
+
 <p>
-  Worked in a startup developed applications from scratch, Now doing freelancing and something what i like.
+  My core tech stack includes <strong>JavaScript, TypeScript, React.js, Node.js, Express.js, MongoDB, and MySQL</strong>. I specialize in developing clean, maintainable code and creating intuitive user interfaces with seamless backend integrations.
 </p>
-<p>Full-Stack Developer with 1+ year of experience building scalable web applications using JavaScript, TypeScript,
-React.js, Node.js, Express.js, MongoDB, and MySQL. Delivered 80% increase in user engagement and 90%
-automation efficiency by developing high-performance solutions. Strong expertise in RESTful APIs, real-time systems,
-and responsive UI design.
+
+<p>
+  Currently, I'm freelancing and building projects I love — constantly exploring new technologies and sharpening my skills. I'm particularly enthusiastic about real-time systems, automation, and crafting impactful user experiences.
 </p>
+
+<p>
+  <strong>🧠 Always eager to learn</strong> — currently diving deeper into <em>Next.js, system design, DevOps workflows, and automation tooling</em>.
+</p>
+
 
 ## 🌐 Connect with Me
 
